@@ -1,0 +1,8 @@
+React - Lifting Stateup
+=======================
+Share data with parent and ancestor
+child -> parent -> ancestor
+
+
+
+
